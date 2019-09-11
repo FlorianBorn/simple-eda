@@ -1,2 +1,2 @@
-# simple-eda
-This repository provides helper functions for EDA
+# simple-ml
+This repository provides helper functions for ML
